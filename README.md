@@ -13,6 +13,7 @@ A simple Python script that converts common image extensions (.jpg, .jpeg, .png,
 
 ```bash
 pip install -r requirements.txt
+```
 
 then run program via env or terminal
 
